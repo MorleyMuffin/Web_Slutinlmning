@@ -34,7 +34,7 @@ ul.draggable-list li:hover {    background-color: #f0f0f0;}
 }
 
 header {
-    background-color: #fcf8ff;
+    background-color: #361175;
     color: white;
     padding: 1rem;
     text-align: center;
@@ -73,6 +73,7 @@ h1 {
     font-size: 35px;
     color: black;
 }
+
 h2, h3, h4, h5, h6 {
     margin-bottom: 0.5rem;
 }
