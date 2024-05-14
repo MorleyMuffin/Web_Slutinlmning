@@ -15,6 +15,19 @@ body {
     background-color: #fcf8ff;
 }
 
+
+.list-container {    display: inline-block;
+    border: 1px solid #ccc;
+    padding: 10px;}
+
+ul.draggable-list {    list-style: none;padding: 0;}
+
+ul.draggable-list li {    background-color: #f9f9f9;
+    padding: 10px;    margin-bottom: 5px;
+    cursor: pointer;}
+ul.draggable-list li:hover {    background-color: #f0f0f0;}
+
+
 .container {
     width: 80%;
     margin: 0 auto;
